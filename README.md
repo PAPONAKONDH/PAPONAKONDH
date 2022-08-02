@@ -1,7 +1,7 @@
 ![WEB DESIGN](https://scontent.fdac34-1.fna.fbcdn.net/v/t39.30808-6/296670789_760424731866803_3424271353896936469_n.jpg?stp=dst-jpg_p180x540&_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeF3eDCeyPmI4ZqAr5evu9ZeOsnMAtGkAoY6ycwC0aQChlxymhkTsd546SipqzUCJoU9GIuuXE8br6Ri8usel62x&_nc_ohc=0IkyYjFXwk4AX_NZcVS&_nc_zt=23&_nc_ht=scontent.fdac34-1.fna&oh=00_AT-P6ib81LttdjH2enXw5TWiLj5NW7BUcV6X0blhoZqMFA&oe=62ECADA2)
 ## Hi there 👋,I am Ashraf Ali
 # WEB DESIGN
-![WEB DESIGN](https://scontent.fdac34-1.fna.fbcdn.net/v/t39.30808-6/296670789_760424731866803_3424271353896936469_n.jpg?stp=dst-jpg_p180x540&_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeF3eDCeyPmI4ZqAr5evu9ZeOsnMAtGkAoY6ycwC0aQChlxymhkTsd546SipqzUCJoU9GIuuXE8br6Ri8usel62x&_nc_ohc=0IkyYjFXwk4AX_NZcVS&_nc_zt=23&_nc_ht=scontent.fdac34-1.fna&oh=00_AT-P6ib81LttdjH2enXw5TWiLj5NW7BUcV6X0blhoZqMFA&oe=62ECADA2)
+
 
 hi there,  I am Ashraf ali. now i just learned html, css,  jquery , bootstrap .I can design vary nice with html, css . I am Bangladeshi but, I can speak arobic,  urdu and hindi and english.
 
