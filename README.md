@@ -5,7 +5,7 @@
 
 hi there,  I am Ashraf ali. now i just learned html, css,  jquery , bootstrap .I can design vary nice with html, css . I am Bangladeshi but, I can speak arobic,  urdu and hindi and english.
 
-Skills:  HTML / CSS/JQURY/BOOTSTRAP..
+Skills:  HTML / CSS/JQURY/BOOTSTRAP.
 
 
 - 🌱 I’m currently learning JAVASCRIPT 
